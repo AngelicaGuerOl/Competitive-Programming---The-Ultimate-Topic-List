@@ -14,5 +14,4 @@ int main() {
                 b = sig;
         }
         cout << endl;
-
 }
